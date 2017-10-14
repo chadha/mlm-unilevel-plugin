@@ -1,7 +1,7 @@
 {
-    "name": "sylius/plugin-skeleton",
+    "name": "chadha/MLMUniLevelPlugin",
     "type": "sylius-plugin",
-    "description": "Acme example plugin for Sylius.",
+    "description": "Plugin enables the Unilevel MLM Network plan for Sylius",
     "license": "MIT",
     "require": {
         "php": "^7.1",
