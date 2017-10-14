@@ -1,5 +1,5 @@
 {
-    "name": "chadha/MLMUniLevelPlugin",
+    "name": "chadha/mlm-uniLevel-plugin",
     "type": "sylius-plugin",
     "description": "Plugin enables the Unilevel MLM Network plan for Sylius",
     "license": "MIT",
